@@ -3,7 +3,9 @@
 
 1. __¿Qué es una página web?__
 
-<span style="color:red;">Una página web es algo que ves en Internet, pero no estoy seguro de cómo explicarlo bien. Es como un documento que tiene información, imágenes y a veces videos, creo que se hace con algo llamado HTML, que es como una especie de código, cuando escribes una dirección web en el navegador accedes a esa página.</span>
+Una página web es algo que ves en Internet, pero no estoy seguro de cómo explicarlo bien. Es como un documento que tiene información, imágenes y a veces videos, creo que se hace con algo llamado HTML, que es como una especie de código, cuando escribes una dirección web en el navegador accedes a esa página.
+
+<span style="color:red;">Este texto es rojo.</span>
 
 2. __¿Qué es un servidor web?__
 
