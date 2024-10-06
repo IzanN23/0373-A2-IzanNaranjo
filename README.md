@@ -24,7 +24,7 @@ Los lenguajes de marcas son herramientas que usamos para organizar y dar formato
 
 HTML (HyperText Markup Language) es el lenguaje utilizado para crear páginas web. Usa etiquetas para estructurar el contenido, para encabezados y para párrafos.
 
-![Imagen Estructura HTML](file:///C:/Repositorio%20ASIX1/0373-A2-IzanNaranjo/estructurahtmlejemplo.webp "Titulo opcional")
+![Imagen Estructura HTML](https://github.com/IzanN23/0373-A2-IzanNaranjo?tab=readme-ov-file "Titulo opcional")
 
 **_Figura 1: Estructura de código HTML_**
 
@@ -34,14 +34,14 @@ CSS (Cascading Style Sheets) es un lenguaje utilizado para definir el estilo y l
 
 6. __¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web.__
 
-Sí, el funcionamiento de un navegador web es bastante interesante. Cuando quieres visualizar una página web, el proceso sigue varios pasos:
+    Sí, el funcionamiento de un navegador web es bastante interesante. Cuando quieres visualizar una página web, el proceso sigue varios pasos:
     1. __Escritura de la URL__: Escribes la dirección web (URL) en la barra de direcciones del navegador.
-    2. **Resolución del nombre de dominio**: El navegador envía una solicitud a un servidor DNS para traducir el nombre de dominio (como www.ejemplo.com) a una dirección IP, que es la dirección real del servidor donde está alojada la página.
+    2. **Resolución del nombre de dominio**: El navegador envía una solicitud a un servidor DNS para traducir el nombre de dominio a una dirección IP, que es la dirección real del servidor donde está alojada la página.
     3. **Solicitud HTTP**: Una vez que tiene la dirección IP, el navegador envía una solicitud HTTP al servidor web para obtener el contenido de la página.
     4. **Recepción de la respuesta**: El servidor procesa la solicitud y envía de vuelta el código HTML, junto con otros archivos necesarios, como CSS y JavaScript.
     5. **Renderizado**: El navegador recibe estos archivos y comienza a renderizar la página. Primero, interpreta el HTML para estructurar el contenido, luego aplica el CSS para estilizarlo y, finalmente, ejecuta cualquier JavaScript para añadir interactividad.
     6. **Visualización**: Una vez que todo está procesado, el navegador muestra la página en la pantalla, permitiéndote interactuar con ella.
 
-![Esquema de peticiones HTML](file:///C:/Repositorio%20ASIX1/0373-A2-IzanNaranjo/Funcionamiento-Servidor-Web.png "Titulo opcional")
+![Esquema de peticiones HTML](https://github.com/IzanN23/0373-A2-IzanNaranjo?tab=readme-ov-file "Titulo opcional")
 
 **_Figura 2: Esquema de peticiones HTML_**
