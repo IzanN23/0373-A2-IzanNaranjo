@@ -14,7 +14,7 @@ Un servidor web es un ordenador que almacena páginas de Internet y las envía a
 Los lenguajes de marcas son herramientas que usamos para organizar y dar formato a documentos, especialmente en la web.
 
 | Nombre | Enlace a Documentación |
-|----------| |----------|
+|--------------------------------| |------------------------------------|
 | HTML | [Documentación HTML](https://developer.mozilla.org/es/docs/Web/HTML) |
 |XML | [Documentación XML](https://www.w3.org/TR/xml/) |
 | Markdown | [Documentación Markdown](https://www.markdownguide.org/) |
