@@ -1,9 +1,9 @@
 # 0373-A2-IzanNaranjo
-## Evaluación final
+## Evaluación inicial
 
 1. __¿Qué es una página web?__
 
-Respuesta.
+<span style="color:red;">Una página web es algo que ves en Internet, pero no estoy seguro de cómo explicarlo bien. Es como un documento que tiene información, imágenes y a veces videos, creo que se hace con algo llamado HTML, que es como una especie de código, cuando escribes una dirección web en el navegador accedes a esa página.</span>
 
 2. __¿Qué es un servidor web?__
 
