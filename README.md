@@ -22,7 +22,7 @@ Los lenguajes de marcas son herramientas que usamos para organizar y dar formato
 
 4. __¿Qué es HTML ? ¿Sabes cómo se estructura?__
 
-HTML (HyperText Markup Language) es el lenguaje utilizado para crear páginas web. Usa etiquetas para estructurar el contenido, como <h1> para encabezados y <p> para párrafos.
+HTML (HyperText Markup Language) es el lenguaje utilizado para crear páginas web. Usa etiquetas para estructurar el contenido, para encabezados y para párrafos.
 
 ![Imagen Estructura HTML](file:///C:/Repositorio%20ASIX1/0373-A2-IzanNaranjo/estructurahtmlejemplo.webp "Titulo opcional")
 
